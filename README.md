@@ -2,4 +2,4 @@
 
 - Created a little game which displays statistics about some users's inputs :
 
-[https://github.com/ndjerrou/Stats](Lien dépôt github)
+(Lien dépôt github)[https://github.com/ndjerrou/Stats]
